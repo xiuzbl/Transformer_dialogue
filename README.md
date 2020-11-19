@@ -5,5 +5,5 @@
 3. sh run.sh
 
 Notice:
-You can change the cuda you will use in the 'run.sh'.
+You can change the cuda you will use in the 'run.sh'. No need to run other shell files. If you have some comments on the codes, you can add them to this readme whenever you want.
 
